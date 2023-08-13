@@ -31,14 +31,6 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-<h3 align="center">Github Metrics</h3>
-<p align="center">
-	<img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/github-metrics.svg" />
-</p>
 
-<p>
-     <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
-    
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
