@@ -24,4 +24,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=inam101001&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Github Contributions
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+<h3 align="center">Github Metrics</h3>
+<p align="center">
+	<img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/github-metrics.svg" />
+</p>
+
+<p>
+     <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
+    
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
