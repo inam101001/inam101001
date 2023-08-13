@@ -24,13 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=inam101001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-night-green.svg">
-		<img width="900em" src="./profile-night-rainbow.svg">
-	</a>
-</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
