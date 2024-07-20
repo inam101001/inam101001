@@ -24,8 +24,14 @@ Ready to dive into the adventure? Let's connect and explore the limitless possib
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/inam0870) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inam.u53) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inam-ul-haq-442b1524b) 
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,figma,mongodb,tailwind,git,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,nextjs" />
+     <img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,jenkins,linux,vim" /><br>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=inam101001&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inam101001&theme=swift&hide_border=false)<br/>
