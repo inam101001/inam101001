@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FF99&center=true&vCenter=true&width=800&height=60&lines=Hey+there!+I'm+Inam+Ul+Haq;Full-Stack+Developer+%7C+Tech+Enthusiast;Welcome+to+my+Retro+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FF99&center=true&vCenter=true&width=800&height=60&lines=Hey+there!+I'm+Inam+Ul+Haq;Full-Stack+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 </div>
 
 ---
@@ -30,9 +30,36 @@ Beyond the code editor, I'm passionate about **learning, collaboration**, and pu
 <div align="center">
   <h2>⚡ My Tech Stack ⚡</h2>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,typescript,javascript,tailwind,nextjs,nodejs,vscode" alt="Tech Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,jenkins,linux,vim,git" alt="Tech Tools" /><br/>
+
+  ### 🖌️ Frontend Development:
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Tools" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nextjs" alt="Frontend Tools" />
+  <br/>
+
+  ### 🔧 Backend Development:
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Tools" />
+  <br/>
+
+  ### 📜 Programming Languages:
+  <img src="https://skillicons.dev/icons?i=typescript,javascript" alt="Programming Languages" />
+  <br/>
+
+  ### ☁️ Cloud & DevOps:
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp" alt="Cloud Tools" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,jenkins" alt="DevOps Tools" />
+  <br/>
+
+  ### 🖥️ Development Environment:
+  <img src="https://skillicons.dev/icons?i=vscode,linux,vim" alt="Development Tools" />
+  <br/>
+
+  ### 🗂️ Version Control:
+  <img src="https://skillicons.dev/icons?i=git" alt="Version Control Tools" />
+  <br/>
+  
 </div>
+
+
 
 ---
 
@@ -45,22 +72,16 @@ Beyond the code editor, I'm passionate about **learning, collaboration**, and pu
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inam101001&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=inam101001&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inam101001&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=inam101001&bg_color=141321&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## 🎵 Retro Vibes Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=inam101001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
