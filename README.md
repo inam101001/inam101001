@@ -1,99 +1,164 @@
-<h1 align="center">Inam Ul Haq</h1>
-
-<p align="center">
-Cloud & DevOps Focused Engineer | TypeScript Backend Developer | MSc Web & Data Science
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FF99&center=true&vCenter=true&width=900&height=60&lines=Cloud+%26+DevOps+Focused+Engineer;Building+Reliable+Infrastructure" alt="Typing SVG" />
+</div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a Cloud and DevOps focused engineer currently pursuing a Master's in Web and Data Science in Germany.
+I focus on **Cloud Infrastructure, DevOps automation, and containerized systems**.
 
-My primary interest is building reliable cloud infrastructure, automating deployments, and designing systems that are easy to maintain and scale. I have hands-on experience deploying containerized applications, writing Infrastructure as Code, and implementing CI/CD pipelines.
+Most of my work revolves around:
 
-Most of my backend work is done in TypeScript using NestJS, and several production style projects are available on my GitHub.
+- Deploying applications in Docker containers  
+- Managing services with Kubernetes  
+- Writing Infrastructure as Code using Terraform  
+- Building CI/CD pipelines with Jenkins and GitHub Actions  
+- Operating workloads on AWS and Google Cloud  
 
----
-
-## What I Focus On
-
-- Containerized application deployment using Docker  
-- Kubernetes based service orchestration  
-- CI/CD automation using Jenkins and GitHub Actions  
-- Infrastructure as Code with Terraform  
-- Cloud deployment on GCP and AWS  
-- Monitoring and observability using Prometheus, Grafana, and CloudWatch  
-- Backend development using TypeScript and NestJS  
+I also work extensively with **TypeScript and NestJS** for backend systems. Many of my repositories demonstrate production style deployments and cloud based architectures.
 
 ---
 
-## Selected Infrastructure Projects
+## 🛠️ Core Focus Areas
 
-### Microservices Banking Platform
-- Multi service architecture deployed in Docker containers
-- Kubernetes orchestration with health checks and resource limits
-- CI workflow with GitHub Actions
+### ☁️ Cloud & Infrastructure
+- AWS  
+- Google Cloud Platform  
+- Cloud Run  
+- EC2, S3, Route53, CloudFront  
+- IAM and networking basics  
+
+### 📦 Containers & Orchestration
+- Docker  
+- Kubernetes  
+- Health checks and resource limits  
+- Service based architecture  
+
+### 🔁 CI/CD & Automation
+- Jenkins pipelines  
+- GitHub Actions  
+- Automated Docker builds  
+- Zero downtime deployment strategies  
+
+### 🏗️ Infrastructure as Code
+- Terraform  
+- Modular infrastructure design  
+- Reproducible environments  
+
+### 🧩 Backend Development
+- TypeScript  
+- Node.js  
+- NestJS  
+- REST APIs  
+- Event driven services  
+
+---
+
+## ⚙️ Selected DevOps Projects
+
+### 🏦 Microservices Banking Platform
+- Multi service architecture running in Docker
+- Kubernetes orchestration with 17+ pods
 - Prometheus and Grafana monitoring stack
+- GitHub Actions CI workflows
 
-### AWS Infrastructure Projects
-- Terraform provisioning of EC2, S3, Route53, CloudFront, ACM
-- Automated deployments through Jenkins pipelines
-- HTTPS configuration and DNS management
-- CloudWatch monitoring and alerting
+### 🌍 AWS Infrastructure Deployment
+- Provisioned infrastructure using Terraform
+- Automated deployments with Jenkins
+- HTTPS setup with ACM and Route53
+- CloudWatch monitoring and alerts
 
-### Backend Cloud Applications
-- NestJS and TypeScript APIs
-- Event driven services
-- Deployment on Google Cloud Run
-- Structured data processing pipelines
-
----
-
-## Technical Stack
-
-### Cloud
-AWS, Google Cloud Platform
-
-### Containers & Orchestration
-Docker, Kubernetes
-
-### Infrastructure as Code
-Terraform
-
-### CI/CD
-Jenkins, GitHub Actions
-
-### Backend
-TypeScript, Node.js, NestJS
-
-### Databases
-ArangoDB, MongoDB
-
-### Operating Systems
-Linux, Ubuntu
+### ☁️ Cloud Native Backend Systems
+- NestJS APIs deployed on Google Cloud Run
+- Event driven workflows
+- Dynamic data processing pipelines
 
 ---
 
-## Currently Working On
+## 🧰 Tech Stack Overview
 
-- Improving Kubernetes deployment patterns
-- Strengthening Terraform module design
-- Expanding cloud architecture knowledge
-- Building more production style infrastructure projects
+<div align="center">
+
+<table>
+<tr>
+<th>Category</th>
+<th>Tools</th>
+</tr>
+
+<tr>
+<td>☁️ Cloud</td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
+</td>
+</tr>
+
+<tr>
+<td>📦 Containers</td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</td>
+</tr>
+
+<tr>
+<td>🔁 CI/CD</td>
+<td>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
+</td>
+</tr>
+
+<tr>
+<td>🏗️ IaC</td>
+<td>
+<img src="https://skillicons.dev/icons?i=terraform" />
+</td>
+</tr>
+
+<tr>
+<td>🧠 Backend</td>
+<td>
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs" />
+</td>
+</tr>
+
+<tr>
+<td>🖥️ OS</td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux" />
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inam101001&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inam101001&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inam101001&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inam101001&layout=compact&theme=radical" />
+</div>
 
 ---
 
-## Contact
+## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/iaminam  
-Email: inam101001@gmail.com
+<div align="center">
+
+<a href="https://linkedin.com/in/iaminam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:inam101001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=inam101001&icon=2&color=5" />
+</div>
